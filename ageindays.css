@@ -1,0 +1,24 @@
+.container1{
+  border: 2px solid black;
+  width: 70%;
+  margin-top: 2rem;
+  text-align: center;
+}
+
+hr{
+  border: 1px solid gray;
+}
+
+.row{
+  padding: 2rem 2rem 0 2rem;
+  text-align: center;
+  justify-content: center;
+}
+
+.btn{
+  font-size: 200%;
+}
+
+.button1{
+  padding-right: 2rem;
+}
